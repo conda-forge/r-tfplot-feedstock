@@ -1,11 +1,11 @@
-About r-tfplot
-==============
+About r-tfplot-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-tfplot-feedstock/blob/main/LICENSE.txt)
 
 Home: http://tsanalysis.r-forge.r-project.org/
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-tfplot-feedstock/blob/main/LICENSE.txt)
 
 Summary: Utilities for simple manipulation and quick plotting of time series data. These utilities use the 'tframe' package which provides a programming kernel for time series. Extensions to 'tframe' provided in 'tframePlus' can also be used. See the Guide vignette for examples.
 
